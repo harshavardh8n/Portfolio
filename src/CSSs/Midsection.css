@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    display:flex;
+    height:100vh;
+
+}
+#designation{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+
+
+.name{
+    margin: 2rem;
+    margin-bottom: 3rem;
+    margin-top:3rem;
+}
+
+#heading{
+    margin:1rem;
+    margin-top:10rem;
+    margin-right: 3rem;
+    font-weight: 500;
+    margin-left: 5rem;
+    padding: 2rem;
+    padding-bottom: 0;
+}
+
+#Edu{
+    font-weight: 500;
+    margin-left: 3rem;
+
+}
+
+#desc{
+    margin-left: 5rem;
+    margin-right: 4rem;
+}
+
+#pfp{
+    min-height: 30vw;
+    width: 30vw;
+    min-width: 20vw;
+    margin: auto;
+    margin-top: 8rem;
+    border-radius: 100%;
+    margin-right: 4rem;
+}
+.imgholder{
+    margin: 0 4rem;
+}
+
+#identity{
+    max-height: 50vh;;
+}
+
+.cv{
+    display: flex;
+    gap: 1rem;
+    padding-left: 5rem;
+}   

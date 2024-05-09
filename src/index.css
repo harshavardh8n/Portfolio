@@ -1,3 +1,12 @@
+:root{
+  --NavColor:#fefcf9;
+  --NavLi: black;
+}
+
+[data-theme="dark"]{
+  --NavColor:#2D3748;
+  --NavLi:#2D3748;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

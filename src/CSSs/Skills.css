@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+
+
+.page2{
+    height: 50vh;
+    display: flex;
+}
+
+.Education{
+    width: 50%;
+}
+.skills{
+    width: 50%;
+}
+#Edutitle{
+  
+        margin:1rem;
+        margin-top:5rem;
+        margin-right: 3rem;
+        margin-left: 4rem;
+        padding-bottom: 0;
+    
+}
+.Educontent{
+    margin: 2rem;
+    margin-left: 3rem;
+}
+
+.skillcontent{
+    margin: 2rem;
+    margin-right: 3rem;
+}
+
+#skilltitle{
+  
+    margin:1rem;
+    margin-top:5rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    padding-bottom: 0;
+
+}
+
+.cv{
+    
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+
+.footer{
+    height: 30vh;
+}
+.credit{
+    margin-top: 10rem;;
+}
+
+.icons{
+    display: flex;
+    gap:0.8rem;
+    margin: auto;
+    margin-top: 2rem;
+    justify-content: center;
+}
+
+.develop{
+    width:fit-content;
+    margin:auto;
+    margin-top: 2.3rem;
+
+}
+
+.icon{
+    cursor: pointer;
+}
